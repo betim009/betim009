@@ -10,7 +10,8 @@
 
 
 - 📫 Me econtra: 
-  instagram: @albertofernandescouto;
+
+  instagram: @albertofernandescouto
   
   linkedin: https://www.linkedin.com/in/albertocouto/
   
