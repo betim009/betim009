@@ -1,6 +1,7 @@
-### Olá (: 👋
+## Olá (: 👋
 
 - 💬 Quem sou:
+
   Me chamo Alberto Fernandes Couto, mas conhecido como bebeto, ou beto.  
   Tenho 27 anos, sou da região do Caparaó do Espírito Santo. 
   
@@ -21,6 +22,8 @@
   
 - :eyes: GIST: 
   https://gist.github.com/betim009
+  
+  
   
 - :technologist: Experiências:
  1. Encontre Rápido
