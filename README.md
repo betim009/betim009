@@ -1,19 +1,20 @@
 ## Olá (: 👋
 
-### - 💬 Quem sou:
+### Quem sou: 💬
   Alberto, 27 anos.   
   Da região do Caparaó do Espírito Santo. 
+  
   Apaixonado por café, animes e natureza. 
   
   Mais sobre a minha pessoa: linkedin.com/in/albertocouto
+  
   instagram: @albertofernandescouto
+  
   email: betim009@gmail.com
  
-### :eyes: GIST: 
+### GIST: :eyes:  
   https://gist.github.com/betim009
-  
-  
-  
+   
 ### :technologist: Experiências:
  1. Encontre Rápido
  
