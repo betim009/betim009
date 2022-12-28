@@ -1,6 +1,6 @@
 ## Olá (: 👋
 
-- 💬 Quem sou:
+### 💬 Quem sou:
 
   Me chamo Alberto Fernandes Couto, mas conhecido como bebeto, ou beto.  
   Tenho 27 anos, sou da região do Caparaó do Espírito Santo. 
@@ -12,7 +12,7 @@
   Atualmente estou estudando desenvolvimento web na Trybe.  
 
 
-- 📫 Me econtra: 
+### 📫 Me econtra: 
 
   instagram: @albertofernandescouto
   
