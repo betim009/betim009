@@ -1,34 +1,20 @@
 ## Olá (: 👋
 
-### 💬 Quem sou:
-
-  Me chamo Alberto Fernandes Couto, mas conhecido como bebeto, ou beto.  
-  Tenho 27 anos, sou da região do Caparaó do Espírito Santo. 
-  
+### - 💬 Quem sou:
+  Alberto, 27 anos.   
+  Da região do Caparaó do Espírito Santo. 
   Apaixonado por café, animes e natureza. 
   
-  Sou técnico e licenciado em informática. 
-  
-  Atualmente estou estudando desenvolvimento web na Trybe.  
-
-
-### 📫 Me econtra: 
-
+  Mais sobre a minha pessoa: linkedin.com/in/albertocouto
   instagram: @albertofernandescouto
-  
-  linkedin: https://www.linkedin.com/in/albertocouto/
-  
   email: betim009@gmail.com
-  
-  
-  ###
-- :eyes: GIST: 
-
+ 
+### :eyes: GIST: 
   https://gist.github.com/betim009
   
   
   
-- :technologist: Experiências:
+### :technologist: Experiências:
  1. Encontre Rápido
  
     Tecnologia usada: JS, HTML, CSS e PHP. 
