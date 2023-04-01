@@ -3,7 +3,7 @@
 ## Sobre mim 👨🏻‍💻
 Sou um desenvolvedor de software apaixonado por tecnologia e atualmente moro na região do Caparaó do Espírito Santo. Meus interesses pessoais incluem café, animes e estar em contato com a natureza. 
 
-Para saber mais sobre mim, me siga no [LinkedIn](https://www.linkedin.com/in/alberto-couto-1901b4135/) ou no [Instagram](https://www.instagram.com/betim009/).
+Para saber mais sobre mim, me siga no [LinkedIn]((https://www.linkedin.com/in/albertocouto/)) ou no [Instagram](https://www.instagram.com/albertofernandescouto/).
 
 ## Stacks 🛠️
 <div align="center">
