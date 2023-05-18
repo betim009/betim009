@@ -1,9 +1,13 @@
-# Olá, eu sou o Alberto Couto! 👋
+# Alberto Fernandes Couto
 
-## Sobre mim 👨🏻‍💻
-Sou um desenvolvedor de software apaixonado por tecnologia e atualmente moro na região do Caparaó do Espírito Santo. Meus interesses pessoais incluem café, animes e estar em contato com a natureza. 
+##  Sobre
+Sou um desenvolvedor de software apaixonado por tecnologia e da região do caparaó. 
+Não pode faltar café, animes, música e de estar em contato com a natureza.
 
-Para saber mais sobre mim, me siga no [LinkedIn](https://www.linkedin.com/in/albertocouto/) ou no [Instagram](https://www.instagram.com/albertofernandescouto/).
+O meu inglês é do Tibia, sell plate legs i from carlin. E o melhor time do mundoo é o Flamengo. 
+
+
+Me conheça melhor em: [LinkedIn](https://www.linkedin.com/in/albertocouto/) ou no [Instagram](https://www.instagram.com/albertofernandescouto/).
 
 ## Stacks 🛠️
 <div align="center">
@@ -32,8 +36,6 @@ Para saber mais sobre mim, me siga no [LinkedIn](https://www.linkedin.com/in/alb
 
 ## Contato 📬
 - Email: betim009@gmail.com
-- GitHub: https://github.com/betim009
-- Gist: https://gist.github.com/betim009
 
 ## GitHub Stats 📊
 ![Estatísticas do GitHub de Alberto Couto](https://github-readme-stats.vercel.app/api?username=betim009&show_icons=true&theme=dark)
