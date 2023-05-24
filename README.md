@@ -4,7 +4,7 @@
 Sou um desenvolvedor de software apaixonado por tecnologia e da região do caparaó. 
 Não pode faltar café, animes, música e de estar em contato com a natureza.
 
-O meu inglês é do Tibia, sell plate legs i from carlin. E o melhor time do mundoo é o Flamengo. 
+O meu inglês é do Tibia: Sell Plate Legs - 500 gps - i from carlin. E o melhor time do mundoo é o Flamengo. 
 
 
 Me conheça melhor em: [LinkedIn](https://www.linkedin.com/in/albertocouto/) ou no [Instagram](https://www.instagram.com/albertofernandescouto/).
