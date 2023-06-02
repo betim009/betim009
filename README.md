@@ -10,24 +10,29 @@ O meu inglês é do Tibia: Sell Plate Legs - 500 gps - i from carlin. E o melhor
 Me conheça melhor em: [LinkedIn](https://www.linkedin.com/in/albertocouto/) ou no [Instagram](https://www.instagram.com/albertofernandescouto/).
 
 ## Stacks 🛠️
-<div align="center">
-  <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=white">
-  <img src="https://img.shields.io/badge/-ES6-F7DF1E?style=flat-square&logo=javascript&logoColor=white">
-  <img src="https://img.shields.io/badge/-Bootstrap-563D7C?style=flat-square&logo=bootstrap&logoColor=white">
-  <img src="https://img.shields.io/badge/-React.js-61DAFB?style=flat-square&logo=react&logoColor=white">
-  <img src="https://img.shields.io/badge/-RTL-00BFFF?style=flat-square">
-  <img src="https://img.shields.io/badge/-Jest-C21325?style=flat-square&logo=jest&logoColor=white">
-  <img src="https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white">
-  <img src="https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white">
-  <img src="https://img.shields.io/badge/-Express.js-787878?style=flat-square">
-  <img src="https://img.shields.io/badge/-Sinon-8A8A8A?style=flat-square">
-  <img src="https://img.shields.io/badge/-Chai-A30701?style=flat-square">
-  <img src="https://img.shields.io/badge/-Node.js-43853D?style=flat-square&logo=node.js&logoColor=white">
-  <img src="https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white">
-  <img src="https://img.shields.io/badge/-Linux-FCC624?style=flat-square&logo=linux&logoColor=white">
-  <img src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white">
-  <img src="https://img.shields.io/badge/-Bash-4EAA25?style=flat-square">
-</div>
+<table align="home">
+  <tr>
+    <th>JavaScript</th>
+    <th>React</th>
+    <th>Node</th>
+    <th>TypeScript</th>
+    <th>HTML</th>
+    <th>CSS</th>
+    <th>MySQL</th>
+    <th>Python</th>
+
+  </tr>
+  <tr>
+    <th><img align="center" alt="JavaScript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg"></th>
+    <th><img align="center" alt="React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg"></th>
+    <th><img align="center" alt="Node" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg"></th>
+    <th><img align="center" alt="TypeScript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg"></th>
+    <th><img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg"></th>
+    <th><img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg"></th>
+    <th><img align="center" alt="SQL" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg"></th>
+ <th><img align="center" alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"></th>
+  </tr>
+</table>
 
 ## Projetos 💻
 - [Encontre Rápido](https://www.encontrerapido.com.br/) - Tecnologias utilizadas: JS, HTML, CSS e PHP.
