@@ -1,15 +1,14 @@
-# Alberto Fernandes Couto
+### Alberto Fernandes Couto
+Desenvolvedor full stack e Professor de Informática com foco em linguagem e lógica de pogramação.
 
-##  Sobre
-Sou um desenvolvedor de software apaixonado por tecnologia e da região do caparaó. 
-Não pode faltar café, animes, música e de estar em contato com a natureza.
+Saiba mais sobre meu trabalho: [Superprof](https://www.superprof.com.br/aprenda-javascript-typescript-react-python-html-css-boostrap-mysql-express-node-git-github-linux-professor.html)
 
-O meu inglês é do Tibia: Sell Plate Legs - 500 gps - i from carlin. E o melhor time do mundoo é o Flamengo. 
+```
+() => 'lets code'; 
+```
 
 
-Me conheça melhor em: [LinkedIn](https://www.linkedin.com/in/albertocouto/) ou no [Instagram](https://www.instagram.com/albertofernandescouto/).
-
-## Stacks 🛠️
+#### 🛠️ Stacks/Ferramentas
 <table align="home">
   <tr>
     <th>JavaScript</th>
@@ -34,13 +33,5 @@ Me conheça melhor em: [LinkedIn](https://www.linkedin.com/in/albertocouto/) ou 
   </tr>
 </table>
 
-## Projetos 💻
-- [Encontre Rápido](https://www.encontrerapido.com.br/) - Tecnologias utilizadas: JS, HTML, CSS e PHP.
-- [Livre Ambiental](https://livreambiental.com.br/) - Tecnologias utilizadas: ferramenta de criação de site Bitrix.
-- [Sindicato dos Servidores de Ibatiba](https://servidoresdeibatiba.com/) - Tecnologias utilizadas: ferramenta de criação de site Bitrix.
-
-## Contato 📬
-- Email: betim009@gmail.com
-
-## GitHub Stats 📊
+#### 📊 GitHub Stats 
 ![Estatísticas do GitHub de Alberto Couto](https://github-readme-stats.vercel.app/api?username=betim009&show_icons=true&theme=dark)
