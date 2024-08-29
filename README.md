@@ -34,4 +34,4 @@ Saiba mais sobre meu trabalho: [Superprof](https://www.superprof.com.br/aprenda-
 </table>
 
 #### 📊 GitHub Stats 
-![Estatísticas do GitHub de Alberto Couto](https://github-readme-stats.vercel.app/api?username=betim009&show_icons=true&theme=dark)
+![Metrics](https://metrics.lecoq.io/betim009?template=classic&base.header=0&gists=1&lines=1&config.timezone=America%2FToronto)
