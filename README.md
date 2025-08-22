@@ -3,7 +3,7 @@ Desenvolvedor full stack e Professor de Informática com foco em linguagem e ló
 
 Saiba mais sobre meu trabalho: [Superprof](https://www.superprof.com.br/aprenda-javascript-typescript-react-python-html-css-boostrap-mysql-express-node-git-github-linux-professor.html)
 
-```
+```js
 () => 'lets code'; 
 ```
 
