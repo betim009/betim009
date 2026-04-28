@@ -1,37 +1,95 @@
 ### Alberto Fernandes Couto
-Desenvolvedor full stack e Professor de Informática com foco em linguagem e lógica de pogramação.
 
-Saiba mais sobre meu trabalho: [Superprof](https://www.superprof.com.br/aprenda-javascript-typescript-react-python-html-css-boostrap-mysql-express-node-git-github-linux-professor.html)
+Full Stack Developer
+Programming Instructor
 
-```js
-() => 'lets code'; 
-```
+I build complete web systems (frontend and backend) and help beginners learn programming in a simple, practical, and market-oriented way.
 
+---
 
-#### 🛠️ Stacks/Ferramentas
-<table align="home">
-  <tr>
-    <th>JavaScript</th>
-    <th>React</th>
-    <th>Node</th>
-    <th>TypeScript</th>
-    <th>HTML</th>
-    <th>CSS</th>
-    <th>MySQL</th>
-    <th>Python</th>
+## What I Do
 
-  </tr>
-  <tr>
-    <th><img align="center" alt="JavaScript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg"></th>
-    <th><img align="center" alt="React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg"></th>
-    <th><img align="center" alt="Node" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg"></th>
-    <th><img align="center" alt="TypeScript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg"></th>
-    <th><img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg"></th>
-    <th><img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg"></th>
-    <th><img align="center" alt="SQL" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg"></th>
- <th><img align="center" alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"></th>
-  </tr>
-</table>
+* Web system development (CRUD, APIs, dashboards)
+* Development of different types of systems and software (ERP, CRM, Landing Pages, APKs, E-commerce)
+* API integrations (payments, automation, etc.)
+* Database modeling (SQL / MongoDB)
+* Teaching programming from beginner to advanced level
 
-#### 📊 GitHub Stats 
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=betim009&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=2B5BBD&icon_color=1124BB&text_color=A1A1A1&bg_color=0,000000,130F40" alt="my Github Stats"/>
+---
+
+## Stacks & Technologies
+
+### Languages
+
+JavaScript • TypeScript • Python • SQL • C • Java • Shell
+
+### Frontend
+
+React • Vite • HTML • CSS • SCSS • Bootstrap • Material UI
+
+### Backend
+
+Node.js • Express • NestJS • REST APIs • JWT • Bcrypt
+
+### Databases
+
+MySQL • MongoDB
+
+### Tools
+
+Git • GitHub • Docker • Linux • VSCode
+
+### Data & Automation
+
+Pandas • Matplotlib • Machine Learning
+
+---
+
+## Projects
+
+* E-commerce System (Node.js + MySQL)
+* Online Scheduling System (React + REST API)
+* Data Analysis with Python (pandas + charts)
+* Full CRUD with authentication (JWT)
+
+---
+
+## GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=betim009&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=2B5BBD&icon_color=1124BB&text_color=A1A1A1&bg_color=0,000000,130F40"/>
+</p>
+
+---
+
+## Professional Opportunities
+
+I am available for:
+
+* CLT or contract roles (Full Stack / Backend / Frontend Developer)
+* Freelance projects (web systems, APIs, automation)
+* Project partnerships
+
+---
+
+## Programming Lessons
+
+I teach programming with a focus on real-world practice:
+
+* Programming logic
+* JavaScript and Python
+* Building real systems
+* Interview and technical test preparation
+
+Learn more:
+https://www.superprof.com.br/aprenda-javascript-typescript-react-python-html-css-boostrap-mysql-express-node-git-github-linux-professor.html
+
+---
+
+## Contact
+
+* GitHub: https://github.com/betim009
+* LinkedIn: https://www.linkedin.com/in/albertocouto/
+* Email: betim009@gmail.com
+
+---
